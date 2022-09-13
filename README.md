@@ -8,4 +8,4 @@ Caratteristiche che ho implementato:
 
 -Creazione animazioni frame by frame 
 
-Sviluppato con Unity, script di gioco programmati in C#, animazioni create tramite software interno a un unity.
+Sviluppato con Unity, scripts di gioco programmati in C#, animazioni create tramite software interno a un unity.
