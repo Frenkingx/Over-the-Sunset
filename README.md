@@ -1,6 +1,6 @@
 # Over-The-Sunset
 Videogioco portato come progetto aggiutivo all'esame di stato.  
-Caratteristiche che ho voluto inplementare: 
+Caratteristiche che ho implementato: 
 
 -Interazione fra oggetti tramite triggers 
 
