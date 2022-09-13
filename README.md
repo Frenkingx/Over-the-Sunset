@@ -2,6 +2,7 @@
 Videogioco portato come progetto aggiutivo all'esame di stato.  
 Caratteristiche che ho voluto inplementare:  
 -Interazione fra oggetti tramite triggers 
+
 -Animazione elementi scenici 
 
 -Creazione animazioni frame by frame 
