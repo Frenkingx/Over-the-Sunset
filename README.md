@@ -1,11 +1,8 @@
-# Over-The-Sunset
-Videogioco portato come progetto aggiutivo all'esame di stato.  
-Caratteristiche che ho implementato: 
+#Video game brought as an additional project to the final exam.
 
--Interazione fra oggetti tramite triggers 
+Features I implemented:
 
--Animazione elementi scenici 
-
--Creazione animazioni frame by frame 
-
-Sviluppato con Unity, scripts di gioco programmati in C#, animazioni create tramite software interno a un unity.
+* Object interaction through triggers
+* Scenic element animation
+* Creation of frame-by-frame animations
+Developed with Unity, game scripts programmed in C#, animations created using internal software in Unity.
