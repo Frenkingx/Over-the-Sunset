@@ -1,4 +1,4 @@
-#Video game brought as an additional project to the final exam.
+# Video game brought as an additional project to the final exam.
 
 Features I implemented:
 
